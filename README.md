@@ -89,13 +89,6 @@ The solution includes:
 
 ---
 
-## 📂 Project Folder Structure
-
-phonepe-pulse-project/ │ ├── dashboard/ │ └── app.py │ ├── data_transformation/ │ └── transform_data.py │ ├── database/ │ └── insert_aggregated_transaction.py │ ├── requirements.txt └── README.md
-`
-
----
-
 ## ▶️ How to Run the Project
 
 ### Step 1: Clone the Repository
@@ -114,6 +107,7 @@ bash python database/insert_aggregated_transaction.py
 bash python -m streamlit run dashboard/app.py
 Open the browser at:
 http://localhost:8501
+
 ---
 
 ## 📊 Dashboard Features
@@ -138,35 +132,12 @@ http://localhost:8501
 
 ---
 
-## ✅ Project Evaluation Compliance
-
-✔ Modular and maintainable code
-✔ Portable across operating systems
-✔ Public GitHub repository
-✔ Proper README documentation
-✔ PEP-8 coding standards followed
-✔ Interactive dashboard with dynamic updates
-✔ LinkedIn demo video (mandatory)
-
----
-
 ## 📈 Results & Insights
 
 * Identified top-performing states in digital transactions
 * Analyzed growth trends across quarters and years
 * Observed transaction category distribution
 * Enabled dynamic, user-driven data exploration
-
----
-
-## 🎓 Learning Outcomes
-
-* GitHub-based data extraction
-* Handling large nested JSON datasets
-* Relational database design using MySQL
-* Interactive dashboard development using Streamlit
-* Data visualization using Plotly
-* End-to-end project implementation
 
 ---
 
@@ -180,5 +151,5 @@ http://localhost:8501
 ## 🧑‍💻 Author
 
 **Sailee Prashant Allyadwar**
-Data Science & Analytics Enthusiast
+Data Science Enthusiast
 ---
